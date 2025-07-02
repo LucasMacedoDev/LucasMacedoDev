@@ -21,17 +21,6 @@ Atualmente curso Análise e Desenvolvimento de Sistemas e atuo no setor de supor
 
 ---
 
-### 💼 Projetos em destaque
-
-- 🔗 [**LP-Telecom**](https://github.com/LucasMacedoDev/LP-Telecom)  
-  Landing page moderna e responsiva desenvolvida com HTML, CSS e JavaScript puro.
-
-- 🔗 [**Evolux360**](https://github.com/LucasMacedoDev/LP_Evolux)  
-  Site institucional baseado em layout do Figma com foco em performance e UX.
-
-- 🔗 [**Trabalho EDP**](https://github.com/LucasMacedoDev/Trabalho-EDP)  
-  Projeto acadêmico com estrutura clara e documentação no estilo profissional.
-
 ### 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucasmacedo-dev/) 
