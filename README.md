@@ -1,5 +1,3 @@
-<h1 align="center">👋 Olá, eu sou o Lucas Macedo</h1>
-
 <p align="center">
   <strong>Full Stack Developer</strong> | Amante de tecnologia e desenvolvimento web 💻
 </p>
