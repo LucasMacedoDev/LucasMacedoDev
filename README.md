@@ -15,7 +15,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas e atuo no setor de supor
 
 ### 🧰 Tecnologias que utilizo
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,sqlitegit,github,figma,vscode" alt="skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,sql,github,figma,vscode" alt="skills" />
 
 ---
 
