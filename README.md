@@ -15,7 +15,7 @@ Atualmente curso ciência da computação e atuo no setor de suporte técnico, a
 
 ### 🧰 Tecnologias que utilizo
 
-<img src="https://skillicons.dev/icons?i=html,css,jv,js,nodejs,python,github,figma,vscode" alt="skills" />
+<img src="https://skillicons.dev/icons?i=html,css,java,js,nodejs,python,github,figma,vscode" alt="skills" />
 
 ---
 
