@@ -7,7 +7,7 @@
 ### 🚀 Sobre mim
 
 Sou um desenvolvedor em formação com foco em aplicações web, interfaces responsivas e boa experiência do usuário.  
-Atualmente curso ciências da computação e atuo no setor de suporte técnico, atendimento ao cliente e administrativo da ConectJet Lagos.
+Atualmente curso ciência da computação e atuo no setor de suporte técnico, atendimento ao cliente e administrativo da ConectJet Lagos.
 
 🎯 Apaixonado por resolver problemas com tecnologia e transformar ideias em código.
 
